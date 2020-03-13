@@ -1,5 +1,5 @@
 # LexicalDensity
-  This project is backend app to get lexical density. This program made by Node.js with express and using mongodb with mongoose.
+  This project is backend app to get lexical density. This program made by Node.js with express and using mongodb.
   
 ## Project Information
 
